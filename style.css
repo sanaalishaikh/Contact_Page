@@ -13,11 +13,11 @@
  /* Main area */
 
  .main-container {
-   max-width: 100%;
+ 
    background-image: url('banner.png');
    background-size: cover;
-   background-position: center;
-   padding: 150px 0;
+    background-position: center;
+   padding: 136px 0px; 
  }
 
 
